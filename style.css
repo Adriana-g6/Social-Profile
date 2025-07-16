@@ -85,6 +85,7 @@ body {
 .link .icon {
   color: #ff6600;
   display: none;
+  gap: 2px;
   width: 24px;
   height: 24px;
   transform: scale(1.2);
